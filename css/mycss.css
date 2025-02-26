@@ -9,3 +9,6 @@
 .tilebg {
     background-image: url(../images/tile.png);
 }
+.changefont {
+    border: thick dotted #E3149B;
+}
