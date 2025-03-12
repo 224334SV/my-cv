@@ -15,18 +15,7 @@
 .mered {
     color: #F71014;	
 }
-.mybox {
-    background-color: #28BDB7;
-    width: 240px;
-    height: 240px;
-}
-   .myboxzozo {
-    background-color: #C528D7;
-    width: 240px;
-    padding-top: 10px;
-    margin-left: 100px;
-    height: 240px;
-}
+
 .navbar-brand {
 	background-color:aqua
 	
@@ -35,5 +24,12 @@
 	background-color:antiquewhite
 	
 }
-
-
+.Sanna1{
+	
+}
+.Sanna2{
+	
+}
+.Sanna3 {
+    float: left;
+}
