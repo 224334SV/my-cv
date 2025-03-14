@@ -14,7 +14,7 @@ body {
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #e0f0ff;
+    background-color: #FFB2E8;
 }
 
 .resume-main {
@@ -49,8 +49,11 @@ body {
 	height: 1em;
 	flex-basis: 1.4em;
 }
-
-.sannaclass {
-    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;	
-	
+    .sannaclass {
+  font-family: "Anton", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+		color:#860AA5
 }
+
+	
